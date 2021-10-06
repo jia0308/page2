@@ -17,5 +17,6 @@ h1{color:brgb(46, 14, 14)k; text-align:center; text-size:500; text-decoration:un
  <li>about flag</li>
  <li>language</li>
  <li>currency</li>
+ </ol>
 </body>
 </html>
