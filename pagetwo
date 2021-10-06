@@ -5,11 +5,17 @@
 h1{color:brgb(46, 14, 14)k; text-align:center; text-size:500; text-decoration:underline ; font-family:black chancery
 
 </style>
-<title> school 2222222 </title>
+<title> pro.pg-2 </title>
 </head>
 <body>
     
 
     <p> this is second page </p>
+ ol{border-style:solid ; outline : 5px solid red ; list-style-type:upper-roman}
+ </style>
+ <ol>
+ <li>about flag</li>
+ <li>language</li>
+ <li>currency</li>
 </body>
 </html>
